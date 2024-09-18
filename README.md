@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Kartik-Ediga
+- 👀 I’m interested in electronics, communication engineering, VLSI, and innovative technical projects.
+- 🌱 I’m currently learning advanced concepts in Verilog and exploring wireless charging systems for electric vehicles.
+- 💞️ I’m looking to collaborate on projects related to embedded systems, wireless technology, VLSI, and circuit design.
+- 📫 How to reach me: 
+  - Email: kartik874684@gmail.com
+  - LinkedIn: [Kartik Ediga](https://www.linkedin.com/in/kartik-ediga-447a49213)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an avid reader and a member of music club. 🎵
